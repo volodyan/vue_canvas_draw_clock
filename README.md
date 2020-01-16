@@ -1,4 +1,4 @@
-# vue_swiper_g2_demo
+# vue绘制时钟 
 
 > A Vue.js project
 
