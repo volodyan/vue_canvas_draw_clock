@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+### 预览页
+> https://volodya-01.github.io/vue_canvas_draw_clock_preview/
+
+
 ## Build Setup
 
 ``` bash
